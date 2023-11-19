@@ -1,0 +1,7 @@
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\bin\Debug\Stategy Method.exe.config
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\bin\Debug\Stategy Method.exe
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\bin\Debug\Stategy Method.pdb
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\obj\Debug\Stategy Method.csproj.AssemblyReference.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\obj\Debug\Stategy Method.csproj.CoreCompileInputs.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\obj\Debug\Stategy Method.exe
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Stategy Method\obj\Debug\Stategy Method.pdb

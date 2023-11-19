@@ -1,0 +1,7 @@
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\bin\Debug\Decorator Method.exe.config
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\bin\Debug\Decorator Method.exe
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\bin\Debug\Decorator Method.pdb
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\obj\Debug\Decorator Method.csproj.AssemblyReference.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\obj\Debug\Decorator Method.csproj.CoreCompileInputs.cache
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\obj\Debug\Decorator Method.exe
+C:\Users\emile\OneDrive\Desktop\CESI\A3 Informatique\Projet 2 - Programmation Système\Prosit 2 - Ce n'est pas un ouvrage de BTP\Decorator Method\obj\Debug\Decorator Method.pdb
